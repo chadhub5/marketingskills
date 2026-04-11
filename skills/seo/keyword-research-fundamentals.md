@@ -81,49 +81,6 @@ Use this scoring framework to prioritize your list:
 Opportunity Score = (Search Volume × Relevance) / Keyword Difficulty
 ```
 
-Focus on keywords where:
-- Relevance to your audience is high (7–10/10)
-- KD is below 30 if your site is new
-- Search volume is enough to matter (100+ searches/month)
-
-### Step 4: Group Keywords by Topic
-
-Cluster related keywords together — these will become individual pages or sections of content. Avoid creating separate pages for keywords that share the same intent.
-
-**Example cluster:**
-- Primary: "keyword research for beginners"
-- Supporting: "how to do keyword research", "keyword research tutorial", "keyword research steps"
-
-### Step 5: Map Keywords to Content
-
-Create a simple spreadsheet with columns:
-- Keyword
-- Search Volume
-- KD
-- Intent
-- Assigned Page/Post
-- Status (planned / in progress / published)
-
-## Common Mistakes to Avoid
-
-- **Targeting only high-volume keywords** — These are usually too competitive for new long-tail keywords** — They convert better and are easier to rank for
-- **Keyword stuffing** — Write for humans first; use keywords naturally
-- **Skipping competitor analysis** — Look at what's already ranking to understand the bar
-
-## Practice Exercise
-
-1. Pick one topic you want to create content about
-2. Brainstorm 5 seed keywords
-3. Use a free tool to find 20 related keywords
-4. Filter down to your top 5 based on the criteria above
-5. Identify the search intent for each
-
-## Additional Resources
-
-- [Google's SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
-- [Ahrefs Keyword Research Guide](https://ahrefs.com/blog/keyword-research/)
-- [Moz Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
-
-## Summary
-
-Effective keyword research combines data (volume, difficulty) with human understanding (intent, relevance). Start small, focus on realistic opportunities, and build your keyword strategy iteratively as your site grows authority.
+<!-- personal note: I've been using KD < 20 as my cutoff since I'm starting from zero DA.
+     Also found that multiplying by a relevance score of 1-3 works better than 1-5 for me
+     since it's hard to meaningfully distinguish 4 vs 5 in practice. -->
