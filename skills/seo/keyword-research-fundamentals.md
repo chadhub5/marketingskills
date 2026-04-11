@@ -49,6 +49,8 @@ Matching your content to the correct intent is more important than keyword volum
 | Cost Per Click (CPC) | Commercial value of the keyword | Higher = more valuable |
 | Click-Through Rate (CTR) | % of searchers who click results | Varies by SERP features |
 
+> **Personal note:** I've found KD < 20 is a more realistic target when starting out on a brand new site with no backlinks. The 0–30 range can still be tough at the upper end.
+
 ## Step-by-Step Process
 
 ### Step 1: Brainstorm Seed Keywords
@@ -80,7 +82,3 @@ Use this scoring framework to prioritize your list:
 ```
 Opportunity Score = (Search Volume × Relevance) / Keyword Difficulty
 ```
-
-<!-- personal note: I've been using KD < 20 as my cutoff since I'm starting from zero DA.
-     Also found that multiplying by a relevance score of 1-3 works better than 1-5 for me
-     since it's hard to meaningfully distinguish 4 vs 5 in practice. -->
