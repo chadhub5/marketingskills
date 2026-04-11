@@ -84,46 +84,17 @@ Shows activity in the last 30 minutes. Useful when you've just sent an email bla
 Answers: *Where is my traffic coming from?* Use this to evaluate which marketing channels are performing.
 
 ### Engagement Reports
-Answers: *What are people doing on my site?* Check top pages, scroll depth, and events.
+Answers: *What are people doing on my site?* Check pages per session and average engagement time to gauge content quality.
 
-### Monetization Reports
-Answers: *How is my site generating revenue?* Relevant for e-commerce and subscription businesses.
+### Retention Reports
+Answers: *Are people coming back?* Useful for subscription-based or content-heavy sites. <!-- personal note: I find this one underrated — worth checking weekly if you run a blog -->
 
-## Practical Tips
+### Conversion / Key Events Reports
+Answers: *Are people completing the actions I care about?* This is the bottom line for most campaigns.
 
-**Filter out internal traffic** — If you and your team visit the site regularly, your own sessions will inflate the numbers. Create an IP filter or use the internal traffic filter in GA4 Admin settings.
+## Common Mistakes to Avoid
 
-**Use UTM parameters** — Tag your marketing links with UTM codes so GA4 correctly attributes traffic from email, social, and ads. Without UTMs, much of this traffic shows up as "Direct."
-
-Example UTM URL:
-```
-https://yoursite.com/landing-page
-  ?utm_source=newsletter
-  &utm_medium=email
-  &utm_campaign=january-promo
-```
-
-**Compare date ranges** — Always compare to a previous period. A drop in traffic means nothing without context. Use the date comparison feature to see week-over-week or year-over-year changes.
-
-**Don't obsess over vanity metrics** — High pageviews feel good but mean little if no one converts. Focus on metrics tied to business outcomes.
-
-## Common Mistakes
-
-- **Not verifying the tracking code is installed** — Use the GA4 Debugger Chrome extension to confirm data is flowing
-- **Ignoring the date range** — GA4 defaults to the last 28 days; always check what period you're looking at
-- **Treating all traffic equally** — 10,000 sessions from your target audience beats 100,000 from bots or irrelevant regions
-- **No goals set up** — Without conversions defined, you can't measure marketing ROI
-
-## Next Steps
-
-Once you're comfortable with the basics:
-- Learn to build **custom reports** and **explorations** in GA4
-- Set up **audience segments** to compare behavior across user groups
-- Connect GA4 to **Google Search Console** for SEO insights
-- Explore **Google Looker Studio** to build shareable dashboards
-
-## Resources
-
-- [Google Analytics Help Center](https://support.google.com/analytics)
-- [GA4 Demo Account](https://support.google.com/analytics/answer/6367342) — practice with real data
-- [Measure School YouTube Channel](https://www.youtube.com/c/MeasureSchool) — practical GA4 tutorials
+- **Not filtering out your own traffic** — add an internal traffic filter under Admin so your visits don't skew the data
+- **Ignoring the date comparison feature** — always compare to a prior period to spot trends
+- **Treating bounce rate as always bad** — a high bounce rate on a contact page where users grab a phone number is fine
+- **Setting up zero conversions** — GA4 is much less useful without at least one key event defined
