@@ -43,6 +43,8 @@ Start conservative and scale up based on capacity and results:
 - **Twitter/X**: 1–3x per day
 - **Facebook**: 3–5x per week
 
+<!-- personal note: for solo creators I'd honestly say start with 3x/week max across all platforms -- burnout is real -->
+
 ### 3. Content Mix (The 4-1-1 Rule)
 
 For every 6 posts:
@@ -75,17 +77,8 @@ Populate your calendar with:
 ### Step 4: Batch Create Content
 Dedicate focused blocks of time to create content in batches — ideally 2–4 weeks ahead. This reduces context-switching and maintains quality.
 
-### Step 5: Build a Review & Approval Workflow
-Even for solo creators, a simple review step before publishing catches errors and ensures brand consistency. For teams, define clear roles:
-- **Author**: drafts the content
-- **Editor**: reviews copy and messaging
-- **Designer**: finalizes visuals
-- **Publisher**: schedules and posts
-
-<!-- personal note: for my workflow I just do a quick self-review the morning before anything goes live, works fine for solo use -->
-
-### Step 6: Analyze and Iterate
-At the end of each month, review performance metrics against your goals. Ask:
-- Which content pillars drove the most engagement?
-- Did posting frequency feel sustainable?
-- What should you do more or less of next month?
+### Step 5: Build Your Scheduling System
+Choose a tool that fits your workflow. Popular options:
+- **Notion or Airtable** — great for solo creators or small teams who want flexibility
+- **Buffer or Later** — straightforward scheduling with decent analytics
+- **Sprout Social or Hootsuite** — better for larger teams with approval workflows
