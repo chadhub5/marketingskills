@@ -73,8 +73,7 @@ Choose 3–5 recurring themes that reflect your brand and audience interests. Ex
 Populate your calendar with:
 - Product launches and announcements
 - Industry events and conferences
-- Seasonal moments (holidays, awareness months)
-- Recurring series (e.g., "#TipTuesday")
+- Seasonal holidays and awareness days relevant to your niche
+- Competitor campaign windows (good time to counter-program)
 
-### Step 4: Batch Create Content
-Dedicate focused blocks of time to c
+<!-- personal note: I keep a running "evergreen bank" of 10-15 posts that are ready to go anytime -- saves me when a planned post falls through or I just don't have capacity that week -->
