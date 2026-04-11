@@ -1,0 +1,75 @@
+---
+title: Subject Line Optimization
+category: email-marketing
+tags: [email, copywriting, open-rates, a-b-testing]
+difficulty: beginner
+author: coreyhaines31
+created: 2024-01-15
+updated: 2024-01-15
+status: active
+---
+
+# Subject Line Optimization
+
+Crafting compelling email subject lines is one of the highest-leverage skills in email marketing. A great subject line can double or triple your open rates, directly impacting the ROI of every campaign you send.
+
+## Why It Matters
+
+The average office worker receives 120+ emails per day. Your subject line has roughly 3 seconds to convince someone to open your email instead of deleting it. Open rates typically range from 15-25% for most industries — subject line optimization is the fastest way to move that number.
+
+## Core Principles
+
+### 1. Clarity Over Cleverness
+Be specific about what's inside. Vague subject lines create curiosity but often feel like clickbait, which damages trust over time.
+
+**Weak:** "You won't believe this..."
+**Strong:** "3 subject line formulas that doubled our open rate"
+
+### 2. Keep It Short
+Aim for 40-50 characters (6-10 words). Most mobile email clients truncate subject lines around 30-40 characters in preview.
+
+### 3. Front-Load the Important Words
+Put the most compelling part at the beginning. Readers scan the first 2-3 words before deciding to read further.
+
+### 4. Use Numbers
+Specific numbers outperform vague claims. "7 tactics" beats "several tactics" every time.
+
+## Proven Formulas
+
+| Formula | Example |
+|---|---|
+| `[Number] ways to [achieve outcome]` | 5 ways to cut your ad spend in half |
+| `How [person/brand] [achieved result]` | How Duolingo grew to 500M users |
+| `The [adjective] guide to [topic]` | The no-fluff guide to cold outreach |
+| `[Question your reader is asking]` | Why isn't your landing page converting? |
+| `[Urgent/time-bound offer]` | Last chance: free audit expires tonight |
+
+## A/B Testing Subject Lines
+
+Always test one variable at a time:
+- Length (short vs. long)
+- Personalization (with vs. without first name)
+- Tone (formal vs. casual)
+- Question vs. statement
+- Emoji vs. no emoji
+
+Send each variant to 20% of your list, wait 4 hours, then send the winner to the remaining 60%.
+
+## Common Mistakes
+
+- **All caps** — triggers spam filters and feels aggressive
+- **Excessive punctuation!!!** — same issue
+- **Misleading subject lines** — short-term opens, long-term unsubscribes
+- **Generic openers** — "Newsletter #42" tells the reader nothing
+- **Ignoring preview text** — the 40-80 chars after the subject line are free real estate
+
+## Tools to Use
+
+- [CoSchedule Headline Analyzer](https://coschedule.com/headline-analyzer) — scores subject lines
+- [Zurb TestSubject](https://zurb.com/playground/testsubject) — previews on different devices
+- [SendCheckIt](https://www.sendcheckit.com/) — spam word checker
+
+## Resources
+
+- [Mailchimp Email Marketing Benchmarks](https://mailchimp.com/resources/email-marketing-benchmarks/)
+- [Really Good Emails](https://reallygoodemails.com/) — swipe file for inspiration
