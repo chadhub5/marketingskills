@@ -49,12 +49,14 @@ Account
 ## Keyword Match Types
 
 | Match Type | Syntax | Reach | Example Trigger |
-|------------|--------|-------|-----------------|
+|------------|--------|-------|---------------|
 | Broad Match | `keyword` | Widest | related searches, synonyms |
 | Phrase Match | `"keyword"` | Moderate | searches containing the phrase |
 | Exact Match | `[keyword]` | Narrowest | exact or close variants only |
 
 **Recommendation for beginners:** Start with phrase and exact match to maintain control over spend. Add broad match only after you have conversion data to guide optimization.
+
+> **Personal note:** In my experience, broad match has gotten a lot more aggressive since Google expanded "close variants" — I'd honestly avoid it until you have at least 30–50 conversions tracked and a solid negative keyword list built up.
 
 ## Quality Score
 
@@ -79,64 +81,4 @@ A standard Responsive Search Ad (RSA) allows up to 15 headlines and 4 descriptio
 **Description best practices:**
 - Expand on headlines with supporting details
 - Address common objections
-- Reinforce the CTA
-
-## Bidding Strategies
-
-| Strategy | Best For | Requires |
-|----------|----------|----------|
-| Manual CPC | Full control, new accounts | Active management |
-| Target CPA | Lead generation | 30+ conversions/month |
-| Target ROAS | Ecommerce | 50+ conversions/month |
-| Maximize Conversions | Spending full budget | Conversion tracking |
-| Maximize Clicks | Traffic, brand awareness | Any |
-
-**Start with Maximize Conversions** once you have conversion tracking in place, then graduate to Target CPA/ROAS once you have sufficient data.
-
-## Setting Up Conversion Tracking
-
-Conversion tracking is non-negotiable for effective campaign management.
-
-1. Go to **Tools & Settings → Conversions**
-2. Click **+ New Conversion Action**
-3. Choose your conversion source (website, app, phone calls)
-4. Install the global site tag `gtag.js` on every page
-5. Add the event snippet on the confirmation/thank-you page
-6. Verify tracking with **Google Tag Assistant**
-
-## Key Metrics to Monitor
-
-| Metric | Formula | Target |
-|--------|---------|--------|
-| CTR | Clicks ÷ Impressions | >3% (search) |
-| CPC | Cost ÷ Clicks | Varies by industry |
-| Conversion Rate | Conversions ÷ Clicks | >2–5% |
-| CPA | Cost ÷ Conversions | ≤ target CPA |
-| ROAS | Revenue ÷ Ad Spend | ≥ 3–4x (varies) |
-| Impression Share | Your impressions ÷ eligible impressions | >70% for core terms |
-
-## Common Beginner Mistakes
-
-- **Not using negative keywords** — Add irrelevant terms as negatives to prevent wasted spend. Review the Search Terms report weekly.
-- **Sending all traffic to the homepage** — Create dedicated landing pages that match the ad's message and intent.
-- **Setting and forgetting** — Google Ads requires regular optimization: bid adjustments, A/B testing ad copy, adding negatives.
-- **Too broad targeting** — Start narrow (exact/phrase match, tight geo) and expand as you gather data.
-- **Ignoring mobile performance** — Check device performance and apply bid adjustments if mobile converts differently.
-
-## Quick-Start Checklist
-
-- [ ] Install conversion tracking before launching
-- [ ] Research keywords using Google Keyword Planner
-- [ ] Structure campaigns by product/service category
-- [ ] Create tightly themed ad groups (10–20 keywords each)
-- [ ] Write at least 8–10 headlines and 3–4 descriptions per RSA
-- [ ] Add sitelink, callout, and structured snippet extensions
-- [ ] Build a negative keyword list before launch
-- [ ] Set a daily budget you're comfortable losing while learning
-- [ ] Schedule a weekly optimization review
-
-## Further Reading
-
-- [Google Ads Help Center](https://support.google.com/google-ads)
-- [Google Skillshop – Google Ads Certification](https://skillshop.withgoogle.com/)
-- [WordStream Google Ads Benchmarks](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
+- Reinf
