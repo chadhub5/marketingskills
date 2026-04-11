@@ -54,6 +54,8 @@ For every 6 posts:
 
 This ratio prevents feed fatigue and builds trust before selling.
 
+<!-- personal note: I've been experimenting with a 5-1-1 split (dropping the curated post) and honestly getting better results for my niche -- worth testing if curation feels forced -->
+
 ## Building Your Calendar: Step-by-Step
 
 ### Step 1: Audit Your Current Content
@@ -75,10 +77,4 @@ Populate your calendar with:
 - Recurring series (e.g., "#TipTuesday")
 
 ### Step 4: Batch Create Content
-Dedicate focused blocks of time to create content in batches — ideally 2–4 weeks ahead. This reduces context-switching and maintains quality.
-
-### Step 5: Build Your Scheduling System
-Choose a tool that fits your workflow. Popular options:
-- **Notion or Airtable** — great for solo creators or small teams who want flexibility
-- **Buffer or Later** — straightforward scheduling with decent analytics
-- **Sprout Social or Hootsuite** — better for larger teams with approval workflows
+Dedicate focused blocks of time to c
