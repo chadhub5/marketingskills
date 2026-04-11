@@ -72,32 +72,5 @@ Certain words trigger psychological responses that drive action:
 1. **Writing about yourself** — Readers care about themselves, not your company
 2. **Burying the lead** — Put your strongest point first, not last
 3. **Weak calls to action** — "Click here" loses to "Get my free guide"
-4. **Jargon overload** — Write at a 6th–8th grade reading level for most audiences
-5. **No social proof** — Testimonials, numbers, and case studies build credibility
-
-## Crafting a Strong CTA
-Your call to action should:
-- Use first-person language ("Get my..." vs "Get your...")
-- Communicate value, not just action
-- Create urgency without being manipulative
-- Stand out visually on the page
-
-**Weak CTAs**: Submit, Click Here, Learn More  
-**Strong CTAs**: Start My Free Trial, Download the Guide, Claim My Discount
-
-## Practice Exercise
-Rewrite the following weak copy using the principles above:
-
-> *"Our software has many features. It is good for businesses. Buy it today."*
-
-Aim for: a clear benefit statement, one power word, and a specific CTA.
-
-## Additional Resources
-- [The Copywriter's Handbook by Robert Bly](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing/dp/0805078045)
-- [Copyhackers](https://copyhackers.com) — Research-driven copywriting tutorials
-- [Hemingway App](https://hemingwayapp.com) — Tool for improving readability
-
-## Related Skills
-- [Subject Line Optimization](../email-marketing/subject-line-optimization.md)
-- [Content Calendar Planning](../social-media/content-calendar-planning.md)
-- [Keyword Research Fundamentals](../seo/keyword-research-fundamentals.md)
+4. **Jargon overload** — Write like you talk; if a 10-year-old wouldn't understand it, simplify it
+5. **No single clear CTA** — Don't give readers multiple actions to take; pick one and commit
