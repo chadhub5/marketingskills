@@ -72,5 +72,5 @@ Certain words trigger psychological responses that drive action:
 1. **Writing about yourself** — Readers care about themselves, not your company
 2. **Burying the lead** — Put your strongest point first, not last
 3. **Weak calls to action** — "Click here" loses to "Get my free guide"
-4. **Jargon overload** — Write like you talk; if a 10-year-old wouldn't understand it, simplify it
-5. **No single clear CTA** — Don't give readers multiple actions to take; pick one and commit
+4. **Jargon overload** — Write like you talk; if your reader has to Google a word, you've lost them
+5. **No single clear CTA** — Don't give readers too many options or they'll choose none
