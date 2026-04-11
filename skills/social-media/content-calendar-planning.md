@@ -75,54 +75,17 @@ Populate your calendar with:
 ### Step 4: Batch Create Content
 Dedicate focused blocks of time to create content in batches — ideally 2–4 weeks ahead. This reduces context-switching and maintains quality.
 
-### Step 5: Build an Approval Workflow
-Define who needs to review content before it goes live:
-1. Writer drafts copy + selects/creates assets
-2. Brand reviewer checks tone and accuracy
-3. Legal/compliance review (if required)
-4. Scheduler queues approved content
+### Step 5: Build a Review & Approval Workflow
+Even for solo creators, a simple review step before publishing catches errors and ensures brand consistency. For teams, define clear roles:
+- **Author**: drafts the content
+- **Editor**: reviews copy and messaging
+- **Designer**: finalizes visuals
+- **Publisher**: schedules and posts
 
-## Recommended Tools
+<!-- personal note: for my workflow I just do a quick self-review the morning before anything goes live, works fine for solo use -->
 
-| Tool | Best For | Pricing |
-|---|---|---|
-| Notion | Flexible planning, team wikis | Free / $8+ per user |
-| Buffer | Simple scheduling + analytics | Free / $6+ per channel |
-| Later | Visual Instagram planning | Free / $18+ per month |
-| Hootsuite | Enterprise multi-platform management | $99+ per month |
-| Airtable | Custom workflows with automations | Free / $10+ per user |
-
-## Common Mistakes to Avoid
-
-- **Overplanning without flexibility**: Leave 20% of your calendar open for reactive/trending content
-- **Ignoring analytics**: Review performance weekly and adjust your mix accordingly
-- **One-size-fits-all content**: Always adapt copy and format for each platform's native style
-- **Skipping the CTA**: Every post should have a clear next step, even if it's just "save this for later"
-
-## Measuring Calendar Effectiveness
-
-Track these metrics monthly to evaluate your calendar's impact:
-
-- **Posting consistency rate**: Did you hit your planned frequency?
-- **Average engagement rate by pillar**: Which content themes resonate most?
-- **Follower growth rate**: Is consistent posting driving audience growth?
-- **Content production lead time**: Are you staying ahead of schedule?
-
-## Quick-Start Template
-
-Use this weekly planning structure:
-
-```
-Week of: [DATE]
-
-Monday    — [Pillar: Education] — [Platform] — [Format]
-Tuesday   — [Pillar: Product]   — [Platform] — [Format]
-Wednesday — [Pillar: Culture]   — [Platform] — [Format]
-Thursday  — [Pillar: Education] — [Platform] — [Format]
-Friday    — [Pillar: Social proof] — [Platform] — [Format]
-```
-
----
-
-## Related Skills
-- [Subject Line Optimization](../email-marketing/subject-line-optimization.md)
+### Step 6: Analyze and Iterate
+At the end of each month, review performance metrics against your goals. Ask:
+- Which content pillars drove the most engagement?
+- Did posting frequency feel sustainable?
+- What should you do more or less of next month?
