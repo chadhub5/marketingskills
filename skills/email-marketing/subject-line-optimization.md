@@ -57,6 +57,8 @@ Send each variant to 20% of your list, wait 4 hours, then send the winner to the
 
 > **Personal note:** I've had better results waiting 6 hours instead of 4 before picking a winner — especially for lists where a chunk of subscribers are in different time zones. Gives late-morning openers a chance to count.
 
+> **My note:** For B2B lists specifically, I've found Tuesday and Wednesday morning sends (8-9am recipient local time) consistently outperform other slots. Worth factoring into when you kick off the test so the 6-hour window doesn't land in the middle of the afternoon slump.
+
 ## Common Mistakes
 
 - **All caps** — triggers spam filters and feels aggressive
@@ -69,9 +71,4 @@ Send each variant to 20% of your list, wait 4 hours, then send the winner to the
 
 - [CoSchedule Headline Analyzer](https://coschedule.com/headline-analyzer) — scores subject lines
 - [Zurb TestSubject](https://zurb.com/playground/testsubject) — previews on different devices
-- [SendCheckIt](https://www.sendcheckit.com/) — spam word checker
-
-## Resources
-
-- [Mailchimp Email Marketing Benchmarks](https://mailchimp.com/resources/email-marketing-benchmarks/)
-- [Really Good Emails](https://reallygoodemails.com/)
+- [Mail-Tester](https://www.mail-tester.com/) — checks spam score before you send
