@@ -65,4 +65,4 @@ Send each variant to 20% of your list, wait 4 hours, then send the winner to the
 - **Excessive punctuation!!!** — same issue
 - **Misleading subject lines** — short-term opens, long-term unsubscribes
 - **Generic openers** — "Newsletter #42" tells the reader nothing
-- **Ignoring preview text** — the snippet after the subject line is prime real estate; treat it like a second subject line, not an afterthought
+- **Ignoring preview text** — the snippet after the subject line is prime real estate; treat it as a second subject line, not an afterthought
