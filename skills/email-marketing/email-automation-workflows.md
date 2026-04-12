@@ -59,6 +59,8 @@ Sent immediately after a subscriber joins your list. Goal: introduce your brand 
 - Email 3 (Day 4): Most popular content or product
 - Email 4 (Day 7): Soft call-to-action (trial, discount, consultation)
 
+> **Personal note:** I've found stretching the welcome series to 5 emails works better for content-heavy brands — adding a Day 10 "community/resources" email before the CTA reduces unsubscribes noticeably.
+
 ### 2. Abandoned Cart
 Triggered when a user adds items to a cart but doesn't complete checkout.
 
@@ -82,11 +84,4 @@ Helps new customers get value quickly and reduces buyer's remorse.
 Targets subscribers who haven't engaged in 60–90 days.
 
 **Recommended structure:**
-- Email 1: "We miss you" — highlight what's new
-- Email 2: Offer an incentive to return
-- Email 3: Final notice — ask if they want to stay subscribed
-- If no engagement: suppress or remove from list
-
----
-
-## Timing & Frequency Best Practices
+- Email 1: "We miss y
