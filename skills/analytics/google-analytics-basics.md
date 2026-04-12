@@ -44,6 +44,8 @@ Google Analytics is the most widely used web analytics platform, giving marketer
 | Pages/Session | Depth of engagement |
 | Conversion Rate | % completing a goal |
 
+> **Personal note:** I've found that Avg. Session Duration can be misleading — GA4 only counts time on the *last* page if there's no further interaction, so it often underreports. Take this metric with a grain of salt and pair it with Engaged Sessions instead.
+
 ### Traffic Sources (Acquisition)
 
 GA4 organizes where your traffic comes from into channels:
@@ -84,17 +86,4 @@ Shows activity in the last 30 minutes. Useful when you've just sent an email bla
 Answers: *Where is my traffic coming from?* Use this to evaluate which marketing channels are performing.
 
 ### Engagement Reports
-Answers: *What are people doing on my site?* Check pages per session and average engagement time to gauge content quality.
-
-### Retention Reports
-Answers: *Are people coming back?* Useful for subscription-based or content-heavy sites. <!-- personal note: I find this one underrated — worth checking weekly if you run a blog -->
-
-### Conversion / Key Events Reports
-Answers: *Are people completing the actions I care about?* This is the bottom line for most campaigns.
-
-## Common Mistakes to Avoid
-
-- **Not filtering out your own traffic** — add an internal traffic filter under Admin so your visits don't skew the data
-- **Ignoring the date comparison feature** — always compare to a prior period to spot trends
-- **Treating bounce rate as always bad** — a high bounce rate on a contact page where users grab a phone number is fine
-- **Setting up zero conversions** — GA4 is much less useful without at least one key event defined
+Answers: *W
