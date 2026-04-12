@@ -72,13 +72,7 @@ Plug your seed keywords into a tool to find related terms, questions, and long-t
 - [AnswerThePublic](https://answerthepublic.com/) — great for question-based keywords
 - [Google Search Console](https://search.google.com/search-console) — shows what you already rank for
 
+> **Personal note:** I've been getting a lot of mileage out of combining AnswerThePublic for question discovery and then validating volume in Google Keyword Planner. Saves money vs jumping straight to a paid tool.
+
 **Paid tools:**
-- Ahrefs, SEMrush, Moz — more accurate data and competitor analysis
-
-### Step 3: Filter and Prioritize
-
-Use this scoring framework to prioritize your list:
-
-```
-Opportunity Score = (Search Volume × Relevance) / Keyword Difficulty
-```
+- Ahrefs, SEMrush, Moz — more accurate data and competitor analysis; worth it once you're serious, but not necessary to get started
