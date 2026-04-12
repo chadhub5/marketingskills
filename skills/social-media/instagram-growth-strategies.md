@@ -74,6 +74,8 @@ Define 3–5 recurring themes that align with your brand. Example for a fitness 
 | Reels | 3–4x per week |
 | Lives | 1–2x per month |
 
+> **Personal note**: In my experience, consistency matters more than frequency. I'd rather nail 3 feed posts/week than burn out trying to hit 5. Start lower and ramp up once the habit is solid.
+
 ---
 
 ## 3. Hashtag Strategy
@@ -98,68 +100,3 @@ Example mix for a coffee shop post:
 **Pro Tip**: Create a branded hashtag unique to your business and encourage your community to use it.
 
 ---
-
-## 4. Leveraging the Algorithm
-
-Instagram prioritizes content based on:
-1. **Relationship** — how often a user interacts with your account
-2. **Interest** — predicted likelihood they'll engage with your content type
-3. **Timeliness** — how recent the post is
-
-**Tactics to boost algorithmic reach:**
-- Reply to every comment within the first hour of posting
-- Post when your audience is most active (check Insights > Audience)
-- Use interactive Stories stickers (polls, questions, quizzes) to drive engagement
-- Collaborate with creators via Instagram Collabs to share reach
-
----
-
-## 5. Reels for Accelerated Growth
-
-Reels receive the highest organic reach of any Instagram format.
-
-**Reel Best Practices**
-- Hook viewers in the first 1–2 seconds
-- Keep videos between 7–15 seconds for highest completion rates
-- Add captions — 85% of videos are watched without sound
-- Use trending audio to boost discoverability
-- End with a clear CTA ("Follow for more", "Save this for later")
-
----
-
-## 6. Key Metrics to Track
-
-| Metric | What It Tells You |
-|--------|------------------|
-| Follower Growth Rate | Overall account health |
-| Reach | How many unique accounts saw your content |
-| Engagement Rate | (Likes + Comments + Saves) / Reach × 100 |
-| Saves | Indicator of high-value content |
-| Profile Visits | Interest generated from a post |
-| Link Clicks | Traffic driven off-platform |
-
-**Benchmark**: A healthy engagement rate on Instagram is 1–5%. Above 5% is excellent.
-
----
-
-## Practice Exercise
-
-1. Audit your current bio using the checklist in Section 1
-2. Define your 3–5 content pillars and brainstorm 5 post ideas per pillar
-3. Research and save 3 hashtag sets (small/medium/large mix) for your top content categories
-4. Schedule your next 2 weeks of content using a tool like Later or Buffer
-5. After 2 weeks, review your Insights and note which post format drove the most reach
-
----
-
-## Additional Resources
-
-- [Instagram Creator Academy](https://creators.instagram.com/)
-- [Later's Instagram Marketing Blog](https://later.com/blog/instagram-marketing/)
-- [Sprout Social Instagram Benchmarks Report](https://sproutsocial.com/insights/instagram-stats/)
-
----
-
-## Summary
-
-Sustainable Instagram growth comes from a combination of profile optimization, consistent value-driven content, smart hashtag use, and active community engagement. Focus on building genuine relationships with your audience rather than chasing vanity metrics, and use your Insights data to continuously refine your strategy.
