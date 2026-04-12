@@ -67,6 +67,8 @@ Triggered when a user adds items to a cart but doesn't complete checkout.
 - Email 2 (24 hours): Address common objections (returns policy, reviews)
 - Email 3 (72 hours): Urgency or limited-time incentive
 
+> **Personal note:** In my experience the 1-hour delay for Email 1 works well for most niches, but for higher-ticket items I've had better results waiting 3–4 hours so it doesn't feel too aggressive. Worth A/B testing.
+
 ### 3. Post-Purchase Onboarding
 Helps new customers get value quickly and reduces buyer's remorse.
 
@@ -88,49 +90,3 @@ Targets subscribers who haven't engaged in 60–90 days.
 ---
 
 ## Timing & Frequency Best Practices
-
-| Workflow Type | First Email Delay | Typical Sequence Length |
-|---|---|---|
-| Welcome Series | Immediate | 4–7 emails over 2 weeks |
-| Abandoned Cart | 30–60 minutes | 2–3 emails over 3 days |
-| Post-Purchase | Immediate | 3–5 emails over 2 weeks |
-| Re-engagement | N/A (scheduled) | 2–3 emails over 1 week |
-
----
-
-## Key Metrics to Track
-
-- **Open Rate** — Are subject lines compelling?
-- **Click-Through Rate (CTR)** — Is the content relevant and the CTA clear?
-- **Conversion Rate** — Are emails driving the desired action?
-- **Unsubscribe Rate** — Are you emailing too frequently or irrelevantly?
-- **Revenue per Email** — For e-commerce workflows, track direct revenue attribution
-
----
-
-## Common Mistakes to Avoid
-
-- **Sending too many emails too fast** — Respect your subscriber's inbox
-- **No branching logic** — Treat everyone the same regardless of behavior
-- **Forgetting to test** — Always A/B test subject lines and send times
-- **Never auditing old workflows** — Stale automations can hurt deliverability
-- **Ignoring mobile optimization** — Over 60% of emails are opened on mobile
-
----
-
-## Practice Exercise
-
-Map out a welcome series for a fictional SaaS product:
-
-1. Define your trigger (new free trial signup)
-2. Write subject lines for 4 emails
-3. Identify one branch condition (e.g., user completed setup vs. didn't)
-4. Define the goal metric for each email
-
----
-
-## Further Reading
-
-- [Klaviyo Flows Documentation](https://help.klaviyo.com/hc/en-us/categories/115000199051)
-- [ActiveCampaign Automation Recipes](https://www.activecampaign.com/marketplace)
-- [Really Good Emails — Automation Examples](https://reallygoodemails.com)
