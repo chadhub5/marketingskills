@@ -68,6 +68,8 @@ Quality Score (1–10) is Google's rating of your keyword and ad relevance. It's
 
 A higher Quality Score lowers your cost-per-click and improves ad position. Aim for a score of 7 or above on your core keywords.
 
+> **Personal note:** Don't obsess over Quality Score as a vanity metric — I've seen accounts with QS 6 keywords outperform QS 9 ones on actual ROAS. Focus on conversion data first, QS second.
+
 ## Writing Effective Ad Copy
 
 A standard Responsive Search Ad (RSA) allows up to 15 headlines and 4 descriptions. Google automatically tests combinations.
@@ -75,10 +77,4 @@ A standard Responsive Search Ad (RSA) allows up to 15 headlines and 4 descriptio
 **Headline best practices:**
 - Include the primary keyword in at least one headline
 - Highlight a unique value proposition (free shipping, 24/7 support)
-- Add a clear call-to-action (Shop Now, Get a Free Quote, Learn More)
-- Use numbers and specifics ("Save 30%", "10,000+ customers")
-
-**Description best practices:**
-- Expand on headlines with supporting details
-- Address common objections
-- Reinf
+- Add
