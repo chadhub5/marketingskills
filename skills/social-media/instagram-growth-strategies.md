@@ -90,11 +90,4 @@ Hashtags remain a key discovery tool when used strategically.
 **Best Practice**
 Use a mix of all three tiers. Aim for 5–15 highly relevant hashtags rather than the maximum 30.
 
-> **Personal note**: I've had better results keeping it to around 8–10 hashtags and putting them in the first comment rather than the caption — keeps captions cleaner and engagement seems about the same.
-
-```
-Example mix for a coffee shop post:
-#YourCityEats (small, local)        — 8K posts
-#IndependentCoffee (medium)         — 220K posts
-#CoffeeShop (large)                 — 900K+ posts
-```
+> **Personal note**: I've had better results keeping it to around 8–10 hashtags and putting them in the first comment rather than the caption — keeps the caption cleaner and engagement seems about the same. Also worth rotating your hashtag sets every few weeks so Instagram doesn't flag them as spammy.
