@@ -65,10 +65,4 @@ Send each variant to 20% of your list, wait 4 hours, then send the winner to the
 - **Excessive punctuation!!!** — same issue
 - **Misleading subject lines** — short-term opens, long-term unsubscribes
 - **Generic openers** — "Newsletter #42" tells the reader nothing
-- **Ignoring preview text** — the 40-80 chars after the subject line are free real estate
-
-## Tools to Use
-
-- [CoSchedule Headline Analyzer](https://coschedule.com/headline-analyzer) — scores subject lines
-- [Zurb TestSubject](https://zurb.com/playground/testsubject) — previews on different devices
-- [Mail-Tester](https://www.mail-tester.com/) — checks spam score before you send
+- **Ignoring preview text** — the snippet after the subject line is prime real estate; treat it like a second subject line, not an afterthought
