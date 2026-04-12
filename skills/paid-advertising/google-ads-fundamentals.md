@@ -72,9 +72,12 @@ A higher Quality Score lowers your cost-per-click and improves ad position. Aim 
 
 ## Writing Effective Ad Copy
 
-A standard Responsive Search Ad (RSA) allows up to 15 headlines and 4 descriptions. Google automatically tests combinations.
+A standard Responsive Search Ad (RSA) allows up to 15 headlines and 4 descriptions. Google automatically tests combinations to find the best performers.
 
-**Headline best practices:**
-- Include the primary keyword in at least one headline
-- Highlight a unique value proposition (free shipping, 24/7 support)
-- Add
+**Tips for strong RSA copy:**
+- Include your primary keyword in at least 2–3 headlines
+- Lead with a clear value proposition (price, offer, differentiator)
+- Use at least one headline with a call to action ("Get a Free Quote", "Shop Now")
+- Pin headline 1 to your core keyword/brand if you want consistency — but avoid over-pinning or you'll kill Google's ability to optimize
+
+> **Personal note:** I usually pin position 1 to the brand/product name and leave everything else unpinned. Letting Google mix the rest has consistently improved CTR for me compared to locking everything down.
