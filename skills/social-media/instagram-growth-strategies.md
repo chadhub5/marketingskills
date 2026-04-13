@@ -90,4 +90,4 @@ Hashtags remain a key discovery tool when used strategically.
 **Best Practice**
 Use a mix of all three tiers. Aim for 5–15 highly relevant hashtags rather than the maximum 30.
 
-> **Personal note**: I've had better results keeping it to around 8–10 hashtags and putting them in the caption rather than the first comment — easier to manage and I haven't noticed a reach difference either way. Also worth rotating your hashtag sets every few weeks so the same clusters don't get stale.
+> **Personal note**: I've had better results keeping it to around 8–10 hashtags and putting them in the first comment rather than the caption — keeps the caption cleaner and engagement seems about the same. Also worth rotating your hashtag sets every few weeks so Instagram doesn't flag them as spammy.
