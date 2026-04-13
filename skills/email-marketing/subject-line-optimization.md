@@ -19,8 +19,7 @@ The average office worker receives 120+ emails per day. Your subject line has ro
 
 ## Core Principles
 
-### 1. Clarity Over Cleverness
-Be specific about what's inside. Vague subject lines create curiosity but often feel like clickbait, which damages trust over time.
+### 1. Clarity Over Cleverness inside. Vague subject lines create curiosity but often feel like clickbait, which damages trust over time.
 
 **Weak:** "You won't believe this..."
 **Strong:** "3 subject line formulas that doubled our open rate"
@@ -65,4 +64,4 @@ Send each variant to 20% of your list, wait 4 hours, then send the winner to the
 - **Excessive punctuation!!!** — same issue
 - **Misleading subject lines** — short-term opens, long-term unsubscribes
 - **Generic openers** — "Newsletter #42" tells the reader nothing
-- **Ignoring preview text** — the snippet after the subject line is prime real estate; treat it like a second subject line, not an afterthought
+- **Ignoring preview text** — the snippet after the subject line is prime real estate; treat it as a second subject line, not an afterthought
