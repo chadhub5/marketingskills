@@ -72,7 +72,4 @@ Plug your seed keywords into a tool to find related terms, questions, and long-t
 - [AnswerThePublic](https://answerthepublic.com/) — great for question-based keywords
 - [Google Search Console](https://search.google.com/search-console) — shows what you already rank for
 
-> **Personal note:** I've been getting a lot of mileage out of combining AnswerThePublic for question discovery and then validating volume in Google Keyword Planner. Saves money vs jumping straight to a paid tool.
-
-**Paid tools:**
-- Ahrefs, SEMrush, Moz — more accurate data and competitor analysis; worth it once you're serious, but not necessary to get started
+> **Personal note:** I've been getting a lot of mileage out of combining AnswerThePublic with Google Search Console. ATP surfaces questions I'd never think to target, and GSC shows me which of those I'm already ranking for on page 2 or 3 — those are easy wins worth prioritizing first.
