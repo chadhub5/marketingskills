@@ -72,4 +72,4 @@ Plug your seed keywords into a tool to find related terms, questions, and long-t
 - [AnswerThePublic](https://answerthepublic.com/) — great for question-based keywords
 - [Google Search Console](https://search.google.com/search-console) — shows what you already rank for
 
-> **Personal note:** I've been getting a lot of mileage out of combining AnswerThePublic with Google Search Console. ATP surfaces questions I'd never think to target, and GSC shows me which of those I'm already ranking for on page 2 or 3 — those are easy wins worth prioritizing first.
+> **Personal note:** I've been getting a lot of mileage out of combining AnswerThePublic with Google Search Console — ATP surfaces question keywords I'd never think to target, and GSC tells me which of those I'm already showing up for but not fully optimized. Good 1-2 punch for finding quick wins.
