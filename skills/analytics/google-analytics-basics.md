@@ -43,8 +43,11 @@ Google Analytics is the most widely used web analytics platform, giving marketer
 | Avg. Session Duration | How long people stay |
 | Pages/Session | Depth of engagement |
 | Conversion Rate | % completing a goal |
+| Engaged Sessions | Sessions with 10s+ activity or 2+ pageviews — more reliable than bounce rate in GA4 |
 
 > **Personal note:** I've found that Avg. Session Duration can be misleading — GA4 only counts time on the *last* page if there's no further interaction, so it often underreports. Take this metric with a grain of salt and pair it with Engaged Sessions instead.
+
+> **Another personal note:** Bounce Rate in GA4 is actually the *inverse* of Engagement Rate (i.e., % of sessions that were NOT engaged). This is a different definition than old Universal Analytics, so don't compare the two directly if you're migrating.
 
 ### Traffic Sources (Acquisition)
 
@@ -80,10 +83,4 @@ Common conversions to track:
 Your home dashboard. Good for a quick daily health check — sessions, conversions, revenue if applicable.
 
 ### Realtime Report
-Shows activity in the last 30 minutes. Useful when you've just sent an email blast or published a post and want to see immediate traffic.
-
-### Acquisition Reports
-Answers: *Where is my traffic coming from?* Use this to evaluate which marketing channels are performing.
-
-### Engagement Reports
-Answers: *W
+Shows activity in the last 30 minutes. Use
