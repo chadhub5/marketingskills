@@ -99,35 +99,6 @@ Use this checklist when optimizing any page:
 - [ ] Internal links to related content (2-5 links)
 - [ ] External links to authoritative sources
 - [ ] All images have descriptive alt text
-- [ ] URL is short and keyword-rich
-- [ ] Page loads in under 3 seconds
-- [ ] Content is mobile-friendly
-
-## Common Mistakes to Avoid
-
-1. **Keyword stuffing** — Overusing keywords makes content unreadable and can trigger penalties
-2. **Duplicate title tags** — Every page needs a unique title
-3. **Missing alt text** — Always describe images for accessibility and SEO
-4. **Thin content** — Pages with fewer than 300 words rarely rank well
-5. **Ignoring internal linking** — Links between your own pages distribute authority
-
-## Tools for On-Page SEO
-
-| Tool | Use Case | Pricing |
-|------|----------|---------|
-| Yoast SEO | WordPress on-page optimization | Free/Paid |
-| Surfer SEO | Content optimization scoring | Paid |
-| Screaming Frog | Technical on-page audits | Free/Paid |
-| Google Search Console | Performance monitoring | Free |
-
-## Next Steps
-
-After mastering on-page SEO, explore:
-- Technical SEO (site speed, crawlability, schema markup)
-- Link building strategies
-- Content cluster and pillar page strategies
-
-## Resources
-
-- [Google's SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
-- [Moz On-Page SEO Guide](https://moz.com/learn/seo/on-page-factors)
+- [ ] URL is clean and descriptive (no query strings or unnecessary parameters)
+- [ ] Page loads in under 3 seconds (check with PageSpeed Insights)
+- [ ] Mobile-friendly layout verified
